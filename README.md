@@ -1389,6 +1389,8 @@ Control smart home devices, home network equipment, and automation systems.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [ladyiceberg/memory-quality-mcp](https://github.com/ladyiceberg/memory-quality-mcp) 🐍 🏠 🍎 🪟 🐧 - Audits and cleans up Claude Code's auto-saved
+  memories. Scores each memory on 4 dimensions (Importance/Recency/Credibility/Accuracy), detects conflicts, and opens a visual health dashboard.
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
 - [timmx7/acheron-mcp-server](https://github.com/timmx7/acheron-mcp-server) [![acheron-mcp-server MCP server](https://glama.ai/mcp/servers/timmx7/acheron-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timmx7/acheron-mcp-server) 📇 🏠 - Cross-surface persistent memory for Claude. Bridges context between Claude Chat, Code, and Cowork via local SQLite with full-text search. Save decisions, preferences, and insights in one surface, retrieve them in any other.
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
